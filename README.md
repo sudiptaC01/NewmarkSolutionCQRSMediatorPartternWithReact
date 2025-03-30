@@ -14,3 +14,13 @@
   <li> Dependency Injection </li>
   <li> Error and Exception handling in C# .NET Core WebAPI using Exception Filter </li>
 </ul>
+
+## Steps to run the application
+<ul>
+  <li> Clone the Git repositoty </li>
+  <li> Open the .sln file in Visual Studio 2022 </li>
+  <li> Run the application  </li>
+  <li> A swagger UI will open, you can test the API here. Keep this in the running state. </li>
+  <li> To run the UI application, Open Terminal window in VS Code go to *\View\properties-app* folder location</li>
+  <li> Use *npm start* to run the React Application</li>
+</ul>
