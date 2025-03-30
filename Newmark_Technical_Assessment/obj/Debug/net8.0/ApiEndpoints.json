@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Newmark_Technical_Assessment.Controllers.PropertiesController",
+    "Method": "GetAllProperty",
+    "RelativePath": "api/Properties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
