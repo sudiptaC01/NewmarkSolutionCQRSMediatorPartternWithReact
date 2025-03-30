@@ -1,4 +1,4 @@
-# C# .NET Core Application using CQRS with Mediator Pattern and UI using React Framework
+# C# .NET Core Application using CQRS with Mediator Pattern and UI using React Framework with Data Stored in Azure Blob Storage
 
 ## The appliction has the following functionality:
 <ul>
