@@ -20,8 +20,6 @@ namespace Newmark_Technical_Assessment.Query
             string jsonContent = string.Empty;
             List<PropertyDetails>? property = null;
 
-            //try
-            //{
                 using (HttpClient client = new HttpClient())
                 {
                     HttpResponseMessage response = await client.GetAsync(sasUrl);
@@ -33,12 +31,7 @@ namespace Newmark_Technical_Assessment.Query
                         jsonContent = await response.Content.ReadAsStringAsync();
                         property = JsonConvert.DeserializeObject<List<PropertyDetails>>(jsonContent);
                     }
-                }
-            //}
-            //catch (Exception)
-            //{
-            //    throw;
-            //}
+                }           
 
             return property;
 
