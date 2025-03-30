@@ -1,4 +1,4 @@
-# Newmark Solution CQRS with Mediator Pattern and UI using React Framework
+# C# .NET Core Application using CQRS with Mediator Pattern and UI using React Framework
 
 ## The appliction has the following functionality:
 <ul>
