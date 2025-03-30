@@ -12,5 +12,5 @@
 <ul>
   <li> CQRS with Mediator Pattern </li>
   <li> Dependency Injection </li>
-  <li> Error and Exception handling in C# .NET Core WebAPI usinf Exception Filter </li>
+  <li> Error and Exception handling in C# .NET Core WebAPI using Exception Filter </li>
 </ul>
